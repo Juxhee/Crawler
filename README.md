@@ -1,4 +1,12 @@
 ## 크롤러
+
+### 0. 개요
+- url_crawler와 contents_crawler로 구성되어 있음 
+- url_crawler : 'page_num'과 '검색 키워드'를 입력으로 검색했을 때, 등장하는 모든 게시물의 url 및 날짜를 크롤링
+- contents_cralwer : url_crawler로 수집한 url에 접근하여 게시물의 제목, 본문 내용, 날짜, 댓글를 크롤링 
+
+
+
 ### 1. 오르비 - orbi_crawler.ipynb
 
 #### orbi_url_crawler
