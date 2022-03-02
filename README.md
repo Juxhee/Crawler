@@ -30,7 +30,7 @@
 #### 최종 데이터 
 ![image](https://user-images.githubusercontent.com/60679596/156315966-948d9a92-cb0a-4cb5-b715-165722d17fea.png)
 
-
+##
 ### 4. 글로우 픽 - gp_crawler.ipynb
 
 #### 최종 데이터 
