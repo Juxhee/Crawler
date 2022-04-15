@@ -16,7 +16,7 @@ orbi_crawler(final_url_list, final_date_list)
 ![image](https://user-images.githubusercontent.com/60679596/156315551-c4d2e713-361d-4028-9ba2-6ccd68fa0373.png)  
 
 <br/>
-  
+  <br/> 
   
 ## 디시인사이드 
 `dc_crawler.ipynb`
@@ -36,7 +36,7 @@ dc_crawler(url_list)
 
   
   <br/>
-  
+   <br/>
   
 ## 잡코리아 
 
@@ -58,9 +58,9 @@ jk_crawler(url_list)
 
   
   <br/>
+   <br/>
   
-  
-## 글로우 픽 
+## 글로우픽 
 
 `gp_crawler.ipynb`
 
