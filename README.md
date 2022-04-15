@@ -1,8 +1,6 @@
 ## 오르비
 
-```
-orbi_crawler.ipynb
-```
+`orbi_crawler.ipynb`
 
 #### How to use 
 
